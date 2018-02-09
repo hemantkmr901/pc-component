@@ -2,5 +2,10 @@ cpu
 graphic card
 ram
 
+
+Cabinet
+Cooler
+
 thank u :)
 final Copy
+
