@@ -1,2 +1,3 @@
 cpu
 graphic card
+ram
